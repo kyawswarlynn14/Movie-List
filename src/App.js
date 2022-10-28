@@ -1,9 +1,9 @@
-import Main from "./components/Main";
+import Hero from "./components/Hero";
 
 function App() {
   return (
     <div className=" bg-[#343a40] text-white">
-      <Main />
+      <Hero />
     </div>
   );
 }
